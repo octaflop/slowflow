@@ -6,6 +6,11 @@
 
 ## Installation & Examples
 
+- Install anaconda
+- `conda env create -f environment.yml`
+- `conda activate slowflow-env`
+
+
 ## Libraries
 
 
